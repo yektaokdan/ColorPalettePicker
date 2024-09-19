@@ -18,7 +18,7 @@
 Add the package via Swift Package Manager:
 
 1. In Xcode, go to **File** > **Add Packages**.
-2. Enter the repository URL: `https://github.com/yourusername/ColorPalettePicker`.
+2. Enter the repository URL: `https://github.com/yektaokdan/ColorPalettePicker`.
 3. Choose the version and add the package.
 
 ### Customization
@@ -46,7 +46,6 @@ view.addSubview(colorPicker)
 
 ### Import the Library
 
-```swift
 import ColorPalettePicker
 import UIKit
 import ColorPalettePicker
